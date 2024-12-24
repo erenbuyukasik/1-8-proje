@@ -1,0 +1,15 @@
+# ninja log v5
+0	83	7558824120014489	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+84	171	7558824120854919	proje.exe	d3ffc809869de11
+1	135	7558825638224556	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+135	299	7558825639625008	proje.exe	d3ffc809869de11
+2	76	7558826604693995	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+76	175	7558826605394408	proje.exe	d3ffc809869de11
+3	121	7558828344108307	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+121	232	7558828345281603	proje.exe	d3ffc809869de11
+2	237	7563168342360913	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+238	573	7563168345424882	proje.exe	d3ffc809869de11
+2	86	7563174736020387	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+86	190	7563174736967499	proje.exe	d3ffc809869de11
+3	77	7563183522580977	CMakeFiles/proje.dir/main.c.obj	2ae3bf2b87a4cdb3
+78	173	7563183523503388	proje.exe	d3ffc809869de11
